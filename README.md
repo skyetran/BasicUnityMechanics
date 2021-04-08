@@ -5,7 +5,7 @@ This project is part of CSS 385: Intro to Game Development by Dr. Yusuf Pisan. T
 Original: Four directional movement using WASD key set.  
 Change: Implement similar movement logic using different set of keys: arrow keys and IJKL key set.  
 Application: Two players sharing one keyboard.  
-Link: https://play.unity.com/mg/other/wasd-movement-1  
+Link: https://play.unity.com/mg/other/wasd-movement-2d  
 
 ## Camera Shake
 Original: User state the duration and magnitude of the shake, then the camera position changed randomly by the stated magnitude for the stated duration.  
